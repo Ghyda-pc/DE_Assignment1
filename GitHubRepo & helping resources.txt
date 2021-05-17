@@ -1,0 +1,29 @@
+##########  GitHub Repository link ###############
+https://github.com/Ghyda-pc/firstAssignment
+
+########## Q1 - useful resources   ################
+
+- Convert CSV to JSON, Avro, XML using ConvertRecord
+https://community.cloudera.com/t5/Community-Articles/Convert-CSV-to-JSON-Avro-XML-using-ConvertRecord-Apache-NiFi/ta-p/246607
+
+- How to generate Avro schema for csv file in nifi 
+https://stackoverflow.com/questions/66367287/using-avroschemaregistry-in-apache-nifi
+
+-Advanced XML Processing with Apache NiFi 1.9.1
+https://www.datainmotion.dev/2019/03/advanced-xml-processing-with-apache.html
+
+
+########## Q2 - useful resources   ################
+
+- How to import csv into Docker Postgresql database
+https://sherryhsu.medium.com/how-to-import-csv-into-docker-postgresql-database-22d56e2a1117
+
+- Export PostgreSQL table data as JSON with psql
+https://blog.stigok.com/2017/09/07/export-postgresql-table-data-as-json-with-psql.html
+
+
+- Apache Airflow on Docker for Complete Beginners
+https://medium.com/@itunpredictable/apache-airflow-on-docker-for-complete-beginners-cf76cf7b2c9a
+
+- Creating an Automated Data Engineering Airflow Pipeline for Batch Data in Machine Learning
+http://blog.zenof.ai/creating-an-automated-data-engineering-pipeline-for-batch-data-in-machine-learning/

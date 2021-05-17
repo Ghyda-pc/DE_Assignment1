@@ -1,0 +1,21 @@
+version: '3'
+services:
+  nifi:
+    image: mkobit/nifi
+    container_name: Nifi
+    ports:
+      - 8080:8080
+      - 8081:8081
+    environment:
+      - NIFI_WEB_HTTP_PORT=8080
+      - NIFI_ZK_CONNECT_STRING=zookeeper:2181
+    volumes:
+      - ./in_nifi:/opt/nifi/in_nifi
+      - ./out_nifi:/opt/nifi/out_nifi
+
+  zookeeper:
+    hostname: zookeeper
+    container_name: Zookeeper
+    image: 'bitnami/zookeeper:latest'
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=yes

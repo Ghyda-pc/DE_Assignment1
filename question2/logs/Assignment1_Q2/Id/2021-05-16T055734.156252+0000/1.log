@@ -1,0 +1,23 @@
+[2021-05-16 05:57:35,979] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Assignment1_Q2.Id 2021-05-16T05:57:34.156252+00:00 [queued]>
+[2021-05-16 05:57:36,028] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Assignment1_Q2.Id 2021-05-16T05:57:34.156252+00:00 [queued]>
+[2021-05-16 05:57:36,029] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-16 05:57:36,029] {taskinstance.py:1069} INFO - Starting attempt 1 of 2
+[2021-05-16 05:57:36,030] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-16 05:57:36,049] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): Id> on 2021-05-16T05:57:34.156252+00:00
+[2021-05-16 05:57:36,055] {standard_task_runner.py:52} INFO - Started process 62 to run task
+[2021-05-16 05:57:36,061] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Assignment1_Q2', 'Id', '2021-05-16T05:57:34.156252+00:00', '--job-id', '17', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/dag.py', '--cfg-path', '/tmp/tmpwkxw_4gu', '--error-file', '/tmp/tmplrkikp8u']
+[2021-05-16 05:57:36,062] {standard_task_runner.py:77} INFO - Job 17: Subtask Id
+[2021-05-16 05:57:36,225] {logging_mixin.py:104} INFO - Running <TaskInstance: Assignment1_Q2.Id 2021-05-16T05:57:34.156252+00:00 [running]> on host afb0088131e3
+[2021-05-16 05:57:36,365] {taskinstance.py:1283} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=GhaydaHyasat
+AIRFLOW_CTX_DAG_ID=Assignment1_Q2
+AIRFLOW_CTX_TASK_ID=Id
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-16T05:57:34.156252+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-05-16T05:57:34.156252+00:00
+[2021-05-16 05:57:36,366] {dag.py:33} INFO - id: 7ad942e4-8940-4b3e-9035-cdad72320301
+[2021-05-16 05:57:36,431] {python.py:118} INFO - Done. Returned value was: None
+[2021-05-16 05:57:36,479] {taskinstance.py:1192} INFO - Marking task as SUCCESS. dag_id=Assignment1_Q2, task_id=Id, execution_date=20210516T055734, start_date=20210516T055735, end_date=20210516T055736
+[2021-05-16 05:57:36,573] {taskinstance.py:1246} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-05-16 05:57:36,593] {local_task_job.py:146} INFO - Task exited with return code 0

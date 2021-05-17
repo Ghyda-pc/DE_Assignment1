@@ -1,0 +1,2088 @@
+[
+ {
+   "Loan_ID": "LP001002",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 5849,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001003",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4583,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001005",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3000,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001006",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2583,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001008",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 6000,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001011",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5417,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001013",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2333,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001014",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3036,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001020",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 12841,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001024",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3200,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001027",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2500,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001028",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3073,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001029",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 1853,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001030",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1299,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001032",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4950,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001034",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3596,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001036",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3510,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001038",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4887,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001041",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2600,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001043",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 7660,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001046",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5955,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001047",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2600,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001050",
+   "Gender": "",
+   "Married": "Yes",
+   "ApplicantIncome": 3365,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001052",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3717,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001066",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 9560,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001068",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2799,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001073",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4226,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001086",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 1442,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001087",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3750,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001091",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4166,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001095",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3167,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001097",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4692,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001098",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3500,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001100",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 12500,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001106",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2275,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001109",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1828,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001112",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 3667,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001114",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4166,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001116",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3748,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001119",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3600,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001120",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 1800,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001123",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2400,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001131",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3941,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001136",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4695,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001137",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3410,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001138",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5649,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001144",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5821,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001146",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 2645,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001151",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 4000,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001155",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 1928,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001157",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3086,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001164",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 4230,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001179",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4616,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001186",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 11500,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001194",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2708,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001195",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2132,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001197",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3366,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001198",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 8080,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001199",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3357,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001205",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2500,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001206",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3029,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001207",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2609,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001213",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4945,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001222",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 4166,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001225",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5726,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001228",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3200,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001233",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 10750,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001238",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 7100,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001241",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 4300,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001243",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3208,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001245",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1875,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001248",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3500,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001250",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4755,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001253",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5266,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001255",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3750,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001256",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3750,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001259",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1000,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001263",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3167,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001264",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3333,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001265",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3846,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001266",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2395,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001267",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 1378,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001273",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6000,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001275",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3988,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001279",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2366,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001280",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3333,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001282",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2500,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001289",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 8566,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001310",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5695,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001316",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2958,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001318",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6250,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001319",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3273,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001322",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4133,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001325",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3620,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001326",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 6782,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001327",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 2484,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001333",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1977,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001334",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4188,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001343",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1759,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001345",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4288,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001349",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4843,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001350",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 13650,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001356",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4652,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001357",
+   "Gender": "Male",
+   "Married": "",
+   "ApplicantIncome": 3816,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001367",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3052,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001369",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 11417,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001370",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 7333,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001379",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3800,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001384",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2071,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001385",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 5316,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001387",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 2929,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001391",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3572,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001392",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 7451,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001398",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 5050,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001401",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 14583,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001404",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 3167,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001405",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2214,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001421",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5568,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001422",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 10408,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001426",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5667,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001430",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 4166,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001431",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 2137,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001432",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2957,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001439",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4300,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001443",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3692,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001448",
+   "Gender": "",
+   "Married": "Yes",
+   "ApplicantIncome": 23803,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001449",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3865,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001451",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 10513,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001465",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6080,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001469",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 20166,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001473",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2014,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001478",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2718,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001482",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3459,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001487",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4895,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001488",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4000,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001489",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 4583,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001491",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3316,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001492",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 14999,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001493",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4200,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001497",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5042,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001498",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 5417,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001504",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 6950,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001507",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2698,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001508",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 11757,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001514",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 2330,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001516",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 14866,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001518",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1538,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001519",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 10000,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001520",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4860,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001528",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 6277,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001529",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2577,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001531",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 9166,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001532",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2281,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001535",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3254,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001536",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 39999,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001541",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6000,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001543",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 9538,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001546",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2980,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001552",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4583,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001560",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1863,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001562",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 7933,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001565",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3089,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001570",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4167,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001572",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 9323,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001574",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3707,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001577",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 4583,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001578",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2439,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001579",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2237,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001580",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 8000,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001581",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1820,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001585",
+   "Gender": "",
+   "Married": "Yes",
+   "ApplicantIncome": 51763,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001586",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3522,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001594",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5708,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001603",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4344,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001606",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3497,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001608",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2045,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001610",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5516,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001616",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3750,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001630",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2333,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001633",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6400,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001634",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 1916,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001636",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4600,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001637",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 33846,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001639",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 3625,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001640",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 39147,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001641",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2178,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001643",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2383,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001644",
+   "Gender": "",
+   "Married": "Yes",
+   "ApplicantIncome": 674,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001647",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 9328,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001653",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4885,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001656",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 12000,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001657",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6033,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001658",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3858,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001664",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4191,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001665",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3125,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001666",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 8333,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001669",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 1907,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001671",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 3416,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001673",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 11000,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001674",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2600,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001677",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4923,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001682",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3992,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001688",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3500,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001691",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3917,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001692",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 4408,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001693",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3244,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001698",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3975,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001699",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2479,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001702",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3418,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001708",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 10000,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001711",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3430,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001713",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 7787,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001715",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5703,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001716",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3173,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001720",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3850,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001722",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 150,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001726",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3727,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001732",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5000,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001734",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 4283,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001736",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2221,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001743",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4009,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001744",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2971,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001749",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 7578,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001750",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6250,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001751",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3250,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001754",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4735,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001758",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6250,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001760",
+   "Gender": "Male",
+   "Married": "",
+   "ApplicantIncome": 4758,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001761",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 6400,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001765",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2491,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001768",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3716,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001770",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3189,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001776",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 8333,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001778",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3155,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001784",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5500,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001786",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5746,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001788",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3463,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001790",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3812,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001792",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3315,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001798",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5819,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001800",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2510,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001806",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2965,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001807",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6250,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001811",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3406,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001813",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 6050,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001814",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 9703,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001819",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6608,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001824",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2882,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001825",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1809,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001835",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 1668,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001836",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3427,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001841",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2583,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001843",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2661,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001844",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 16250,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001846",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3083,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001849",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 6045,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001854",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 5250,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001859",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 14683,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001864",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4931,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001865",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6083,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001868",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2060,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001870",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3481,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001871",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 7200,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001872",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 5166,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001875",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4095,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001877",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4708,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001882",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4333,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001883",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3418,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001884",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 2876,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001888",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 3237,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001891",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 11146,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001892",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 2833,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001894",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2620,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001896",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3900,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001900",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2750,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001903",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3993,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001904",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3103,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001907",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 14583,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001908",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 4100,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001910",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 4053,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001914",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3927,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001915",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2301,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001917",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 1811,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001922",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 20667,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001924",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 3158,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001925",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 2600,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001926",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3704,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001931",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 4124,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001935",
+   "Gender": "Male",
+   "Married": "No",
+   "ApplicantIncome": 9508,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001936",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3075,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001938",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4400,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001940",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 3153,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001945",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 5417,
+   "Loan_Status": "N"
+ },
+ {
+   "Loan_ID": "LP001947",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 2383,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001949",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 4416,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001953",
+   "Gender": "Male",
+   "Married": "Yes",
+   "ApplicantIncome": 6875,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001954",
+   "Gender": "Female",
+   "Married": "Yes",
+   "ApplicantIncome": 4666,
+   "Loan_Status": "Y"
+ },
+ {
+   "Loan_ID": "LP001955",
+   "Gender": "Female",
+   "Married": "No",
+   "ApplicantIncome": 5000,
+   "Loan_Status": "N"
+ }
+]
