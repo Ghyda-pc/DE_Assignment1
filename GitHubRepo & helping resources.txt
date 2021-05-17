@@ -1,5 +1,5 @@
 ##########  GitHub Repository link ###############
-https://github.com/Ghyda-pc/firstAssignment
+https://github.com/Ghyda-pc/DE_Assignment1.git
 
 ########## Q1 - useful resources   ################
 
