@@ -57,7 +57,7 @@ with DAG(
     
     CSV = BashOperator(
         task_id='CSV',
-        bash_command='psql postgresql://postgres:postgres@de_postgres:5432 -c "\copy loan_data_set to \'/home/airflow/data/{{ti.xcom_pull(key="file_id", task_ids=["id"])[0]}}.csv\' csv header ;"',
+        bash_command='psql postgresql://postgres:postgres@postgres:5432 -c "\copy loan_data_set to \'/home/airflow/data/{{ti.xcom_pull(key="file_id", task_ids=["id"])[0]}}.csv\' csv header ;"',
         dag=dag)
     
     toJSON = PythonOperator(
