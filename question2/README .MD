@@ -17,9 +17,9 @@ docker-compose up -d airflow-init
 docker-compose up -d
 
 5- sql to container then excute the sql qurey
-docker cp ./sql.sql de_postgres:/file.sql
-docker cp ./loan_data_set.csv de_postgres:/file.csv
-docker exec -u postgres de_postgres psql postgres postgres -f /file.sql
+docker cp ./sql.sql postgres:/file.sql
+docker cp ./loan_data_set.csv postgres:/file.csv
+docker exec -u postgres postgres psql postgres postgres -f /file.sql
 docker exec airflow_web mkdir -p /home/airflow/data
 
 6- go to file dags that contain "dag.py" and run it
